@@ -1,3 +1,3 @@
-Link to notebook: [hw_1_multitask_counting_student.ipynb](hw_1_multitask_counting_student.ipynb)
+Link to notebook: [hw_1_multitask_counting_student.ipynb](https://colab.research.google.com/github/Semaforex/MIMUW_DNN/blob/main/docs/hw_1_multitask_counting_student.ipynb)
 
-Short description: This notebook contains the implementation of a multitask counting model, including data loading, model definition, training, evaluation, and visualization of results. It should run within ? minutes on google colab with GPU enabled. There are 3 experments in total. Notebook is well structured with markdown cells explaining each step. Some of the results were presented in the report, but not all of them for the sake of brevity.
+Short description: This notebook contains the implementation of a multitask counting model, including data loading, model definition, training, evaluation, and visualization of results. It should run within 30 minutes on google colab with GPU enabled. There are 3 experments in total. Notebook is well structured with markdown cells explaining each step. Some of the results were presented in the report, but not all of them for the sake of brevity.
